@@ -33,8 +33,8 @@ I enjoy writing about tech, cloud, and programming: [Check out my all posts](htt
 ## 📫 Connect with Me
 
 - 🌐 [Portfolio](https://ykhatri.dev)
-- 🐦 [Twitter](https://x.com/ypkkhatri) *(optional, add your link)*  
-- 💼 [LinkedIn](https://www.linkedin.com/yougeshwar-khatri) *(optional, add your link)*  
+- 🐦 [Twitter](https://x.com/ypkkhatri)
+- 💼 [LinkedIn](https://www.linkedin.com/yougeshwar-khatri)
 
 ---
 
