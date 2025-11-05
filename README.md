@@ -18,6 +18,7 @@ Visit my website. [Click here](https://ykhatri.dev)
 
 I enjoy writing about tech, cloud, and programming: [Check out my all posts](https://ykhatri.dev/posts/)
 
+- [How to Set Up API Gateway as a Front Door for Your AWS App Runner Service in a Private VPC](https://ykhatri.dev/posts/how-to-set-up-api-gateway-as-a-front-door-for-your-aws-app-runner-service-in-a-vpc-a-practical-guide/)
 - [Step-by-Step Guide: Setting Up Lambda@Edge for Authentication & Authorization with Amazon Cognito](https://ykhatri.dev/posts/step-by-step-guide-setting-up-lambda-at-edge-for-authentication-and-authorization-with-amazon-cognito/)
 
 ---
